@@ -5,6 +5,6 @@
  - CANSLIM stock formula Web App 
 
 ## Technology to learn
-- Blazor and WebAssembly
+- Blazor and WebAssembly - [YouTube](https://www.youtube.com/watch?v=jGyFKH5y6LA)
 - Docker
 
