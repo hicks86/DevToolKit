@@ -2,6 +2,11 @@
 
 Based on advice https://github.com/coryhouse/ama/issues/11
 
+## CPD Courses
+- Software Architecture and Design (Udacity) <kbd>Current</kbd>
+- UML and Object Oriented Design (Udemy)
+- Docker Mastery (Udemy)
+
 ## Goals
 - MVC, .NET and .NET Core
 - Software design and Architecture
