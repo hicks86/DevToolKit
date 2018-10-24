@@ -36,4 +36,3 @@ Represented by a dashed line with hollow arrow on the interface end.
 
 # Summary
 ![Kiku](UML_Relationship.png)
-(UML_Relationship.png)
