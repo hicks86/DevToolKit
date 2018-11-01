@@ -35,5 +35,4 @@ A class implements the behaviour specified by another model element.
 Represented by a dashed line with hollow arrow on the interface end.
 
 # Summary
-
-(UML_Relationship.png)
+![Kiku](UML_Relationship.png)
