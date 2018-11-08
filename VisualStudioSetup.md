@@ -10,5 +10,3 @@ Focus Solution Explorer = <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>L</kbd>
 
 ## Default Project Location
 Tools > Options > Project and Solutions > Locations
-
-<!-- This is an unwanted change -->
