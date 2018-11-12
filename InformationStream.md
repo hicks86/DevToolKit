@@ -4,7 +4,7 @@ Based on advice https://github.com/coryhouse/ama/issues/11
 
 ## CPD Courses
 - Software Architecture and Design (Udacity) <kbd>Current</kbd>
-- UML and Object Oriented Design (Udemy)
+- ~~UML and Object Oriented Design (Udemy)~~ <kbd>Done</kbd>
 - Docker Mastery (Udemy)
 
 ## Goals
