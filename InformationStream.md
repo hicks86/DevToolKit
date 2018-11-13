@@ -32,19 +32,21 @@ Based on advice https://github.com/coryhouse/ama/issues/11
 - [Hanselminutes](https://www.hanselman.com/podcasts/)
 - [Business of Software](http://www.podcasts.com/business-of-software-podcast)
 
-## Books
+## Technical Books
+- Functional Programming in C# - Enrico Buonanno <kbd>Current</kbd>
+- The Clean Coder - Robert C Martin <kbd>Current</kbd>
 - The Software Craftsman - Sandro Mancuso
 - Growing Object Orientated Software, Guided  by tests - Steve Freeman, Nat Pryce
 - Soft Skills - John Sonmez
 - Pro ASP.NET MVC 5 - Adam Freeman
 
 ## Audio books
-- Principles: Life and Work - Ray Dalio
+- Principles: Life and Work - Ray Dalio <kbd>Current</kbd>
+- The Greatest Show on Earth - Richard Dawkins <kbd>Current</kbd>
 - Leonardo Da Vinci - Walter Isaacson
-- How to Win Friends and Influence People - Dale Carnegie
 - A Short History of Nearly Everything - Bill Bryson
-- The Greatest Show on Earth - Richard Dawkins
-- How to Make Money in Stocks - William O'Neil
+- How to Make Money in Stocks - William O'Neil <kbd>Done</kbd>
+- How to Win Friends and Influence People - Dale Carnegie <kbd>Done</kbd>
 
 ## Video
 - [YouTube Technical](https://www.youtube.com/playlist?list=PLc9UQiK7UK9zIb09uE_yEAW3kme_0mKU8&disable_polymer=true)
