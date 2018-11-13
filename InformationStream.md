@@ -32,6 +32,9 @@ Based on advice https://github.com/coryhouse/ama/issues/11
 - [Hanselminutes](https://www.hanselman.com/podcasts/)
 - [Business of Software](http://www.podcasts.com/business-of-software-podcast)
 
+## Non Technical Books 
+- The Personal MBA: A World-Class Business Education in a Single Volume
+
 ## Technical Books
 - Functional Programming in C# - Enrico Buonanno <kbd>Current</kbd>
 - The Clean Coder - Robert C Martin <kbd>Current</kbd>
