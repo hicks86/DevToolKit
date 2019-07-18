@@ -21,7 +21,8 @@ if ($installAdditionalTools) {
 
     choco install fiddler4 
     choco install wireshark 
-    choco install linqpad 
+    choco install linqpad
+    choco install appium-desktop
 
 
     choco install docker 
