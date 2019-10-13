@@ -1,0 +1,2 @@
+$now = [datetime]::now.ToString('yyyy-MM-dd')
+Copy-Item "D:\Utilities\Grindstone\My Grindstone Database.gsdb" "D:\OneDrive - Intelligent Editing\Grindstone-Backup\My Grindstone Database.gsdb.backup.$now"
