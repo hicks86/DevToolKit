@@ -12,8 +12,6 @@ choco install visualstudio2019-workload-netcoretools
 #choco install dotnet4.5.2 - ???
 #choco install dotnet4.7.1 - ???
 #choco install netfx-4.7.1-devpack - ???
-#choco install sql-server-management-studio
-choco install sql-server-express
 choco install git 
 choco install sourcetree
 choco install googlechrome 
