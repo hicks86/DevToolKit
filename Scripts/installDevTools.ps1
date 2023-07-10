@@ -1,3 +1,7 @@
+#Addin Express Download
+Invoke-WebRequest -Uri "https://www.add-in-express.com/bitrix/rd.php?event1=download&event2=full&event3=&goto=/files/adx10netsetup/adxnet-v1001-b4703-vs-std.zip" -OutFile "C:\Temp\dxnet-v1001-b4703-vs-std.zip"
+
+#Chocolatey
 Invoke-WebRequest https://chocolatey.org/install.ps1 -UseBasicParsing | Invoke-Expression
 
 choco feature enable -n allowGlobalConfirmation
@@ -17,3 +21,7 @@ choco install office365business
 #Useful applications
 choco install notepadplusplus
 choco install vscode
+choco install eazfuscator.net
+
+
+
