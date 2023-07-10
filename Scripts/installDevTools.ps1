@@ -18,6 +18,9 @@ choco install git-fork
 choco install firefox
 choco install office365business
 
+#Frameworks
+choco install dotnetcore-2.1-runtime
+
 #Useful applications
 choco install notepadplusplus
 choco install vscode
