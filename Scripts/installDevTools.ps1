@@ -25,6 +25,8 @@ choco install dotnetcore-2.1-runtime
 choco install notepadplusplus
 choco install vscode
 choco install eazfuscator.net
+choco install slack
+choco install notion
 
 
 
