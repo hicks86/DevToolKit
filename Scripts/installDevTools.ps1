@@ -14,6 +14,7 @@ choco install git
 choco install git-fork
 choco install firefox
 choco install office365business
+choco install wixtoolset #Install the VS Extension aswell
 
 #Frameworks
 choco install dotnetcore-2.1-runtime
