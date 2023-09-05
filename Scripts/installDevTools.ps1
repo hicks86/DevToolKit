@@ -18,6 +18,7 @@ choco install wixtoolset #Install the VS Extension aswell
 
 #Frameworks
 choco install dotnetcore-2.1-runtime
+choco install dotnetcore-3.1-runtime
 
 #Useful applications
 choco install notepadplusplus
