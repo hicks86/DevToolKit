@@ -26,6 +26,7 @@ choco install vscode
 choco install eazfuscator.net
 choco install slack
 choco install notion
+choco install revo-uninstaller
 
 #Addin Express Download
 #TODO change the Output folder
