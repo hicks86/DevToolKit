@@ -19,6 +19,8 @@ choco install wixtoolset #Install the VS Extension aswell
 #Frameworks
 choco install dotnetcore-2.1-runtime
 choco install dotnetcore-3.1-runtime
+choco install netfx-4.7.2-devpack
+
 
 #Useful applications
 choco install notepadplusplus
@@ -27,6 +29,8 @@ choco install eazfuscator.net
 choco install slack
 choco install notion
 choco install revo-uninstaller
+choco install obsidian
+
 
 #Addin Express Download
 #TODO change the Output folder
