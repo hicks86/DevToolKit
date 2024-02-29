@@ -11,7 +11,7 @@ choco install visualstudio2022-workload-netcrossplat
 choco install visualstudio2022-workload-office
 choco install visualstudio2022-workload-netcoretools
 choco install git 
-choco install git-fork
+#choco install git-fork currently failing
 choco install firefox
 choco install office365business
 choco install wixtoolset #Install the VS Extension aswell
@@ -30,6 +30,7 @@ choco install slack
 choco install notion
 choco install revo-uninstaller
 choco install obsidian
+choco install 1password
 
 
 #Addin Express Download
