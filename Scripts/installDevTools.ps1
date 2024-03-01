@@ -31,6 +31,7 @@ choco install notion
 choco install revo-uninstaller
 choco install obsidian
 choco install 1password
+choco install beyondcompare
 
 
 #Addin Express Download
