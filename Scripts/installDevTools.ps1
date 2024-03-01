@@ -34,7 +34,14 @@ choco install 1password
 
 
 #Addin Express Download
-#TODO change the Output folder
+#$Folder = 'C:\Temp'
+#"Test to see if folder [$Folder]  exists"
+#if (Test-Path -Path $Folder) {
+#    "Path exists!"
+#} else {
+#    "Path doesn't exist."
+#    mkdir $Folder
+#}
 #Invoke-WebRequest -Uri "https://www.add-in-express.com/bitrix/rd.php?event1=download&event2=full&event3=&goto=/files/adx10netsetup/adxnet-v1001-b4703-vs-std.zip" -OutFile "C:\Temp\dxnet-v1001-b4703-vs-std.zip"
 
 
