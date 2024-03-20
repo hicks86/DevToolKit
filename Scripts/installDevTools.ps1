@@ -12,6 +12,7 @@ choco install visualstudio2022-workload-office
 choco install visualstudio2022-workload-netcoretools
 choco install git 
 #choco install git-fork currently failing
+choco install sqlitebrowser
 choco install firefox
 choco install office365business
 choco install wixtoolset #Install the VS Extension aswell
