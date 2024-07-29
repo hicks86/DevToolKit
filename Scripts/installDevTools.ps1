@@ -4,7 +4,7 @@ Invoke-WebRequest https://chocolatey.org/install.ps1 -UseBasicParsing | Invoke-E
 choco feature enable -n allowGlobalConfirmation
 
 #Essential applications
-choco install visualstudio2022professional
+choco install visualstudio2022enterprise
 choco install visualstudio2022-workload-netweb
 choco install visualstudio2022-workload-manageddesktop
 choco install visualstudio2022-workload-netcrossplat
